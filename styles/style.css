@@ -38,6 +38,7 @@ ol {
 }
 
 /* Кастомный скроллбар */
+
 .custom-scrollbar::-webkit-scrollbar {
   width: 4px;
 }
@@ -51,7 +52,7 @@ ol {
 }
 
 .page {  
-  display: block;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
